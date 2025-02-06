@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rajarshid-nrift
+- 👋 Hi, I’m @rajarshid-FT
 
 <!---
-rajarshid-nrift/rajarshid-nrift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rajarshid-FT/rajarshid-FT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
